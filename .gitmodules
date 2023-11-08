@@ -1,0 +1,6 @@
+[submodule "ec2postgres"]
+	path = ec2postgres
+	url = https://github.com/mahuntington/ec2postgres
+[submodule "python_sql"]
+	path = python_sql
+	url = git@github.com:mahuntington/python_sql.git
